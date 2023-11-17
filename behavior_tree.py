@@ -191,3 +191,4 @@ class Condition(Node):
             raise ValueError;
 
         return self.value
+
